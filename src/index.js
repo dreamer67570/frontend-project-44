@@ -15,7 +15,7 @@ const processGame = (getQuestionAnswer, rulesOfTheGame) => {
     if (yourAnswer === trueAnswer) {
       console.log('Correct!');
     } else {
-      console.log(`${yourAnswer}! is wrong answer ;(. Correct answer was ${trueAnswer}.`);
+      console.log(`${yourAnswer} is wrong answer ;(. Correct answer was ${trueAnswer}.`);
       console.log(`Let's try again, ${name}!`);
       return 1;
     }
