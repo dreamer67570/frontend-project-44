@@ -2,7 +2,7 @@ import processGame from '../index.js';
 
 const isEven = () => {
   const question = Math.round(Math.random() * 100);
-  let trueAnswer = 'yes';
+  let trueAnswer = '';
 
   if ((question % 2) === 0) {
     trueAnswer = 'yes';
