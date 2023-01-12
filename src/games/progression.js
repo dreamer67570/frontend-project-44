@@ -32,7 +32,7 @@ const progressionGame = () => {
     }
   }
 
-  return [questionArrays, String(trueAnswer)];
+  return [questionArrays.join(' '), String(trueAnswer)];
 };
 
 const rulesOfTheGame = 'What number is missing in the progression?';
