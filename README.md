@@ -25,7 +25,7 @@
 Процесс установки игры: 
 
 1. Склонируйте репозиторий командой: git clone git@github.com:dreamer67570/frontend-project-44.git
-2. Перейдите в корневую директорию проекта cd brain-games
+2. Перейдите в корневую директорию проекта cd ./frontend-project-44/
 3. Установите игру, введя команды make install и sudo npm link. 
 
 ## Запуск игры
