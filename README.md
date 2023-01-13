@@ -26,26 +26,25 @@
 
 1. Склонируйте репозиторий командой: git clone git@github.com:dreamer67570/frontend-project-44.git
 2. Перейдите в корневую директорию проекта cd brain-games
-3. Установите пакет в систему с помощью npm link. Может потребовать запуск с sudo
+3. Установите игру, введя команды make install и sudo npm link. 
 
 ## Запуск игры
 
-Для запуска игры воспользуйтесь командой: brain-games. Чтобы поиграть в конкретную игру вам необходимо ввести одну из слудующих команд:
+Для запуска игры воспользуйтесь командой: brain-games. Чтобы поиграть в конкретную игру вам необходимо ввести одну из слудующих команд. В ссписке представлены презентации игр.
 
 - Запуск игры "Калькулятор": brain-calc
+ [![asciicast](https://asciinema.org/a/rJwt4pDQKFOkK3rnmGkjnrNba.svg)](https://asciinema.org/a/rJwt4pDQKFOkK3rnmGkjnrNba)
 ---
 - Запуск игры "Определение четного числа": brain-even
+[![asciicast](https://asciinema.org/a/UMW2oPimPRQlLLuuwZ5xh4Ekq.svg)](https://asciinema.org/a/UMW2oPimPRQlLLuuwZ5xh4Ekq)
 ---
 - Запуск игры "Определение наибольшего общего делителя": brain-gcd
+[![asciicast](https://asciinema.org/a/VopFQ4BhXyDdvVpWesVOVgnF0.svg)](https://asciinema.org/a/VopFQ4BhXyDdvVpWesVOVgnF0)
 ---
 - Запуск игры "Определение простого числа": brain-prime
+[![asciicast](https://asciinema.org/a/rhz8RuP3hN96igHeTfo4XmdC5.svg)](https://asciinema.org/a/rhz8RuP3hN96igHeTfo4XmdC5)
 ---
 - Запуск игры "Прогрессия": brain-progression
+[![asciicast](https://asciinema.org/a/KX1K6hLRMBNfMK22jyZIg3bYX.svg)](https://asciinema.org/a/KX1K6hLRMBNfMK22jyZIg3bYX)
 ---
 
-***Примеры игр:***
-1. https://asciinema.org/a/UMW2oPimPRQlLLuuwZ5xh4Ekq
-2. https://asciinema.org/a/rJwt4pDQKFOkK3rnmGkjnrNba
-3. https://asciinema.org/a/VopFQ4BhXyDdvVpWesVOVgnF0
-4. https://asciinema.org/a/KX1K6hLRMBNfMK22jyZIg3bYX
-5. https://asciinema.org/a/rhz8RuP3hN96igHeTfo4XmdC5
